@@ -35,7 +35,7 @@ contract Geometry {
     
     Triangle public my_triangle;
     
-    /// @author Jean Cavallera
+
     /// @notice Enter the two legs of your right angle triangle
     /// @dev This function modifies the state of the variable `my_triangle` and use `calculateHypothenuse()` function
     /// @param _a Side 1
